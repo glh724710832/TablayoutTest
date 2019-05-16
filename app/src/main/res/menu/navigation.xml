@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:enabled="true"
+
+        android:title="首页" />
+
+    <item
+        android:id="@+id/navigation_funny"
+        android:icon="@drawable/funny"
+
+        android:title="娱乐" />
+
+    <item
+        android:id="@+id/navigation_subscription"
+        android:icon="@drawable/subscription"
+
+        android:title="订阅" />
+
+    <item
+        android:id="@+id/navigation_found"
+        android:icon="@drawable/found"
+
+        android:title="发现" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/mine"
+
+        android:title="我的" />
+
+</menu>
